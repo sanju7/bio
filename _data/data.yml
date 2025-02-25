@@ -62,35 +62,28 @@ skills:
 # Work Experience 
 
 experiences: 
-
   - role: "Principal Consultant" 
     company: "Infosys Limited" 
     duration: "2017 - Present" 
     responsibilities: 
       - "Designed and deployed multi-cloud Kubernetes clusters reducing downtime by 35%" 
       - "Led AI-driven security automation for cloud compliance and incident response" 
-      - "Optimized cloud workloads, reducing operational costs by 25%" 
-
-  
-
+      - "Optimized cloud workloads, reducing operational costs by 25%"
+      
   - role: "Senior SystemEngineer" 
     company: "UST Global" 
     duration: "2016 - 2017" 
     responsibilities: 
       - "Developed secure APIs and microservices architecture for enterprise cloud adoption" 
       - "Implemented DevSecOps practices, enhancing threat detection and mitigation" 
-
-   
-
+      
   - role: "Technical Architect" 
     company: "Happiest Minds Limited" 
     duration: "2015 - 2016" 
     responsibilities: 
       - "Built responsive front-end applications for high-traffic e-commerce platforms" 
       - "Integrated performance optimizations improving page load speeds by 40%" 
-
- 
-
+      
    - role: "Systems Architect" 
      company: "IGATE / CapeGemini" 
      duration: "2015 - 2016" 
