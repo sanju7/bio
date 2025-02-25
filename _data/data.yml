@@ -1,150 +1,263 @@
- 
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
 
-# Site Information 
+sidebar:
+    position: right # position of the sidebar : left or right
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
-title: "Sanjay Anand | Cloud, AI & Security Strategy" 
-url: "bio.sanjayanand.pro" 
-description: "Strategic Cloud & AI Architect | Cybersecurity & Digital Transformation Expert" 
+    # Profile information
+    name: Sanjay Anand
+    tagline: Devops Architect
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-  
+    # Sidebar links
+    email: hi@sanjayanand.pro
+    phone: 41218563
+    timezone: America/Cancun Timezone
+    citizenship:
+    website: bio.sanjayanand.pro  #do not add http://
+    linkedin: sanjay-anand-5599007
+    xing: Sanjay_Anand07938
+    github: sanju7
+    telegram: DJ_JAYY # add your nickname without '@' sign
+    gitlab:
+    bitbucket: sanju71
+    twitter: '@sanju7'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars: sanju7
+    goodreads: sanju7 # Number-Username, e.g. 123456-alandoe
+    pdf: http://github.com/sanju7/sanju7.github.io/blob/master/Sanjay%20Anand%20Resume%20i3.pdf
 
-# Sidebar Information 
+    languages:
+      title: Languages
+      info:
+        - idiom: English
+          level: Professional
 
-sidebar: 
+        - idiom: Hindi
+          level: Native
 
-  name: "Sanjay Anand" 
-  title: "Cloud & DevSecOps Architect" 
-  email: "hi@sanjayanand.pro" 
-  phone: "+47 41218563" 
-  location: "Europe/Oslo" 
-  website: "www.sanjayanand.pro" 
-  linkedin: "linkedin.com/in/sanjay-anand" 
-  github: "github.com/sanju7" 
-  twitter: "@sanjuy7" 
+        - idiom: Bengali
+          level: Native
 
-  devto: "dev.to/sanju7" 
+    interests:
+      title: Interests
+      info:
+        - item: Climbing
+          link:
 
-  medium: "medium.com/@sanjayanand" 
+        - item: Snowboarding
+          link:
 
-  resume_pdf: "https://bio.sanjayanand.pro/resume.pdf" 
+        - item: Cooking
+          link:
 
-  
-
-# Career Profile 
-
-career-profile: | 
-
-  Cloud & AI Infrastructure Specialist with 15+ years of experience designing, executing,  
+career-profile:
+    title: Career Profile
+    summary: |
+      Cloud & AI Infrastructure Specialist with 15+ years of experience designing, executing,  
   and scaling AI-driven and cloud-native solutions. Known for bridging strategic thought  
   leadership with hands-on execution to drive real-world impact in cybersecurity, digital  
+
   transformation, and automation. 
+education:
+    title: Education
+    info:
+      - degree: MSc in Computer Science
+        university: University of London
+        time: 2011 - 2012
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - degree: BSc in Applied Mathematics
+        university: Bristol University
+        time: 2007 - 2011
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+experiences:
+    title: Experiences
+    info:
+      - role: Lead Developer
+        time: 2015 - Present
+        company: Startup Hubs, San Francisco
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+          error sit voluptatem accusantium doloremque laudantium, totam rem
+          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+          architecto beatae vitae dicta sunt explicabo.
+            - Bullet point
+            - Bullet point
+      - role: Senior Software Engineer
+        time: 2014 - 2015
+        company: Google, London
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - role: UI Developer
+        time: 2012 - 2014
+        company: Amazon, London
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
 
-  
+certifications:
+      title: Certifications
+      list:
+        - name: CV Builder
+          start: 2020
+          end: 2021
+          organization: Microsoft
+          credentialid: 111-222
+          credentialurl: www.google.com
+          credentialname: Google
+          details: |
+            Details about cert. Lorem ipsum dolor sit amet, consectetur 
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh. 
+            Aenean fermentum, felis vulputate suscipit accumsan, 
+            sem enim bibendum augue, sed convallis arcu lacus at dui. 
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
+            Praesent venenatis erat non augue suscipit consectetur. 
+            
+            Second paragraph. Sed eleifend enim ante, vitae efficitur purus 
+            fringilla vel. Ut euismod, sem sed vulputate venenatis, 
+            justo diam viverra velit, sed rhoncus leo leo eu justo.
+            Suspendisse placerat risus ante, sed porta nisi blandit at. 
+        - name: Git learning
+          start: 2019
+          end:
+          organization: Microsoft
+          credentialid: 111-222
+          credentialurl: www.github.com
+          credentialname: Github
+          details: |
+            Older certification. Lorem ipsum dolor sit amet, consectetur 
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh. 
+            Aenean fermentum, felis vulputate suscipit accumsan, 
+            sem enim bibendum augue, sed convallis arcu lacus at dui. 
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
+            Praesent venenatis erat non augue suscipit consectetur. 
+        
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-# Skills & Expertise 
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
 
-skills: 
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-  - category: "Cloud & AI Strategy" 
-    skills: ["AWS", "Azure", "GCP", "Kubernetes", "AI-driven Infrastructure"] 
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-  - category: "Security & Compliance" 
-    skills: ["Zero Trust", "IAM", "Secure DevOps", "GDPR Compliance"] 
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-  - category: "DevOps & Automation" 
-    skills: ["CI/CD Pipelines", "Cloud Cost Optimization", "Observability & Monitoring"] 
+oss:
+    title: OSS Contributions
+    intro: >
+      You can list your open source software contributions in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    contributions:
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-  - category: "Leadership & Strategy" 
-    skills: ["Stakeholder Management", "Digital Transformation", "AI Ethics & Governance"] 
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-  
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-# Work Experience 
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
 
-experiences: 
-  - role: "Principal Consultant" 
-    company: "Infosys Limited" 
-    duration: "2017 - Present" 
-    responsibilities: 
-      - "Designed and deployed multi-cloud Kubernetes clusters reducing downtime by 35%" 
-      - "Led AI-driven security automation for cloud compliance and incident response" 
-      - "Optimized cloud workloads, reducing operational costs by 25%"
-      
-  - role: "Senior SystemEngineer" 
-    company: "UST Global" 
-    duration: "2016 - 2017" 
-    responsibilities: 
-      - "Developed secure APIs and microservices architecture for enterprise cloud adoption" 
-      - "Implemented DevSecOps practices, enhancing threat detection and mitigation" 
-      
-  - role: "Technical Architect" 
-    company: "Happiest Minds Limited" 
-    duration: "2015 - 2016" 
-    responsibilities: 
-      - "Built responsive front-end applications for high-traffic e-commerce platforms" 
-      - "Integrated performance optimizations improving page load speeds by 40%" 
-      
-   - role: "Systems Architect" 
-     company: "IGATE / CapeGemini" 
-     duration: "2015 - 2016" 
-     responsibilities: 
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
- 
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
-  
+skills:
+    title: Skills &amp; Proficiency
 
-# Certifications 
+    toolset:
+      - name: Python & Django
+        level: 98%
 
-certifications: 
+      - name: Javascript & jQuery
+        level: 98%
 
-  - "Google Cloud Professional Architect" 
-  - "AWS Solutions Architect Associate" 
-  - "Certified Kubernetes Administrator (CKA)" 
-  - "Pivotal Cloud Foundry Ops" 
-  - "VMware Data Center Associate" 
-  - "ITIL Foundation & Intermediate" 
+      - name: Angular
+        level: 98%
 
-  
+      - name: HTML5 & CSS
+        level: 95%
 
-# Education 
+      - name: Ruby on Rails
+        level: 85%
 
-education: 
+      - name: Sketch & Photoshop
+        level: 60%
 
-  degree: "MBA" 
-  institution: "Sikkim Manipal University" 
-  year: "2002 - 2004" 
-
-  
-
-# Languages 
-
-languages: 
-
-  - "English - Professional" 
-  - "Norwegian - Beginner" 
-  - "Hindi - Native" 
-  - "Bengali - Native" 
-
-  
-
-# Interests 
-
-interests: 
-
-  - "AI-driven Automation" 
-  - "Cybersecurity Research" 
-  - "Ethical Hacking" 
-  - "Digital Privacy & Policy" 
-  - "Philosophy & Science Fiction Writing" 
-
-  
-
-# Social Links 
-
-social: 
-
-  github: "https://github.com/sanju7" 
-  linkedin: "https://linkedin.com/in/sanjay-anand" 
-  twitter: "https://twitter.com/sanjuy7" 
-  medium: "https://medium.com/@sanjayanand" 
-  devto: "https://dev.to/sanju7" 
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
