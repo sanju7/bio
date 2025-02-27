@@ -9,13 +9,13 @@ sidebar:
 
     # Profile information
     name: Sanjay Anand
-    tagline: Devops Architect
+    tagline: STRATEGIC CLOUD & AI LEADER | CLOUD ARCHITECT | DIGITAL TRANSFORMATION
     avatar: sa-pro-profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: hi@sanjayanand.pro
     phone: 41218563
-    timezone: America/Cancun Timezone
+    timezone: Central Europian Time / UTC+1
     citizenship:
     website: bio.sanjayanand.pro  #do not add http://
     linkedin: sanjay-anand-5599007
@@ -91,9 +91,9 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Principal Consultant
+        time: 2017 - Present
+        company: Infosys, Norway
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -104,8 +104,12 @@ experiences:
           error sit voluptatem accusantium doloremque laudantium, totam rem
           aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
           architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+            - Migration to Azure and GCP, resulting in a 25% cost reduction.
+            - Designed and deployed Kubernetes-based multi-region cloud platforms, enhancing scalability and high availability.
+            - Automated CI/CD pipelines, reducing deployment times by 40%.
+            - Delivered Pivotal Cloud Foundry solutions across APAC, EMEA, and Americas regions.
+            - Collaborated with cross-functional teams to ensure compliance with ICC and data governance standards.
+
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
