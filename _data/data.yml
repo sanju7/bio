@@ -222,37 +222,30 @@ skills:
     toolset:
       - category: Cloud & Infrastructure Architecture
         level: 98%
-        Technologies & patterns: Cloud-Native Architecture (AWS, Azure, GCP) | Multi-Cloud Platforms | Microservices Architecture | Infrastructure Automation | Disaster Recovery as a Service (DRaaS)
         
-
       - category: Security & Compliance
         level: 98%
-        Technology  & patterns: Zero Trust Architecture | Identity & Access Management (IAM) | Security Posture Management | Cloud Security & Compliance (ISO 27001, GDPR, PCI-DSS) | Risk Management & Governance | Secure DevOps & Automation
         
-
       - name: Data & AI Ecosystem
         level: 70%
-        Technology  & patterns: Big Data Pipelines | TensorFlow | Jupyter Notebooks | Data Lakes & Data Migration | AI-Driven Infrastructure | Machine Learning Model Deployment
         
-
       - name: DevOps & Cost Optimization
-        level: 88%
-        Technology  & patterns: CI/CD Pipelines & Automation | FinOps & Cloud Cost Management | Agile & Scrum Methodologies | Observability & Performance Tuning
-        
+        level: 88% 
 
-      - name: Leadership & Strategic Thinking
-        Technology  & patterns: Stakeholder Engagement & Communication | DigitalTransformation Strategy | Thought Leadership in AI & Cloud | Decision-Making & Innovation
+      - name: Leadership & Strategic Thinking    
         level: 85%
 
       - name: Creative Writing
         level: 98%
-        Technology  & patterns: Project documentation, technology Briefs / presentations using Microsoft Word, PDF, PowerPoint, Confluence  |  Non/Fiction and Fiction Writing
         
+    skills:
+        Technology & patterns: Cloud-Native Architecture (AWS, Azure, GCP) | Multi-Cloud Platforms | Microservices Architecture | Infrastructure Automation | Disaster Recovery as a Service (DRaaS)
+        Technology & patterns: Zero Trust Architecture | Identity & Access Management (IAM) | Security Posture Management | Cloud Security & Compliance (ISO 27001, GDPR, PCI-DSS) | Risk Management & Governance | Secure DevOps & Automation
+        Technology & patterns: Big Data Pipelines | TensorFlow | Jupyter Notebooks | Data Lakes & Data Migration | AI-Driven Infrastructure | Machine Learning Model Deployment
+        Technology & patterns: CI/CD Pipelines & Automation | FinOps & Cloud Cost Management | Agile & Scrum Methodologies | Observability & Performance Tuning
+        Technology & patterns: Stakeholder Engagement & Communication | DigitalTransformation Strategy | Thought Leadership in AI & Cloud | Decision-Making & Innovation
+        Technology & patterns: Project documentation, technology Briefs / presentations using Microsoft Word, PDF, PowerPoint, Confluence  |  Non/Fiction and Fiction Writing
         
-
-
-
-
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
