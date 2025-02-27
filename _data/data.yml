@@ -172,44 +172,36 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Cloud Migration for Norway Banking Client (2023-2025)
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+        tagline: "Azure Migration: Migrated on-premises eFraud Platform to Azure Cloud, achieving significant performance improvements, reduced downtime, and cost savings through streamlined services and infrastructure recalibration. "
+        tagline: "Azure Kubernetes (AKS): Designed and implemented Proof of Concept (PoC) architecture for the AKS platform, enabling containerization of IFM. Leveraged Azure DevOps tools to build and test pipelines, deploying and validating the IFM multi-model in the Azure Kubernetes Services platform.  "
+      - title: Cloud-Native Platform Deployment (Pivotal Cloud Foundry) (2021)
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
+      - title: Data Analytics (Google Cloud) (2018)
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
     title: OSS Contributions
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      You Details about my open source contributions over the years
     contributions:
-      - title: Tempo
+      - title: Custom Qmail Server Package and Deploy  
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "A fast deployment  script and a automated configuration management template for deploying highly secure MTA "
 
-      - title: Atom
+      - title: Versatile LAMPP Stack 
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "A simple easy method to deploy enterprise Wiki using Linux/ApachePerl Python stack, packaged and automated, anywhere template  deployment "
 
-      - title: Delta
+      - title: Fast Deployment and automated Integration of Nagios, Checkmk with Atlassian
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Industries most scalable monitoring solution deploy and configuration deploy to autoscale aand integration with Ticketing tool atlassian , all of it deployed as singel package "
 
 publications:
     title: Publications
