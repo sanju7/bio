@@ -3,32 +3,32 @@
 #
 
 sidebar: 
-    - position: right # position of the sidebar : left or right
-      about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-      education: True # set to False if you want education in main section instead of in sidebar
+     - position: right # position of the sidebar : left or right
+       about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+       education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-     name: Sanjay Anand
-     tagline: Devops Architect
-     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+      name: Sanjay Anand
+      tagline: Devops Architect
+      avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-     email: "hi@sanjayanand.pro"
-     phone: 41218563
-     timezone: America/Cancun Timezone
-     citizenship:
-     website: bio.sanjayanand.pro  #do not add http://
-     linkedin: sanjay-anand-5599007
-     xing: Sanjay_Anand07938
-     github: sanju7
-     telegram: DJ_JAYY # add your nickname without '@' sign
-     gitlab:
-     bitbucket: sanju71
-     twitter: '@sanju7'
-     stack-overflow: # Number/Username, e.g. 123456/alandoe
-     codewars: sanju7
-     goodreads: sanju7 # Number-Username, e.g. 123456-alandoe
-     pdf: "http://github.com/sanju7/sanju7.github.io/blob/master/Sanjay%20Anand%20Resume%20i3.pdf"
+      email: "hi@sanjayanand.pro"
+      phone: 41218563
+      timezone: America/Cancun Timezone
+      citizenship:
+      website: bio.sanjayanand.pro  #do not add http://
+      linkedin: sanjay-anand-5599007
+      xing: Sanjay_Anand07938
+      github: sanju7
+      telegram: DJ_JAYY # add your nickname without '@' sign
+      gitlab:
+      bitbucket: sanju71
+      twitter: '@sanju7'
+      stack-overflow: # Number/Username, e.g. 123456/alandoe
+      codewars: sanju7
+      goodreads: sanju7 # Number-Username, e.g. 123456-alandoe
+      pdf: "http://github.com/sanju7/sanju7.github.io/blob/master/Sanjay%20Anand%20Resume%20i3.pdf"
 
     languages:
       title: Languages
