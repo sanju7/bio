@@ -34,58 +34,58 @@ sidebar:
       title: Languages
       info:
         - idiom: English
+          level: Fluency C2 Business Proficiency
+
+        - idiom: Hindi
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+        - idiom: Bengali
+          level: Native
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Hiking
           link:
 
-        - item: Snowboarding
+        - item: Creative Writing
           link:
 
-        - item: Cooking
+        - item: Mindfulness
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Cloud & AI Infrastructure Specialist with 15+ years of experience
+      designing, executing, and scaling cloud-native and AI-driven solutions.
+      Known for bridging strategic thought leadership with hands-on execution
+      to drive real-world impact.
+      I have successfully led enterprise-scale transformations, driving AIpowered 
+      security, cloud automation, and DevOps acceleration  across government, 
+      startups, and Fortune 500 companies. Astrategic thinker who thrives on 
+      translating vision into tangible,scalable deployments, I enable 
+      businesses to build resilient, highperformance AI and cloud ecosystems.
+
+      
+      
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Masters in Business Administration
+        university: Sikkim Manipal University
+        time: 2002 - 2004
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          Fulltime Executive MBA from Kolkata campus with 6 month project at Taadong Sikkim.
+          Specialization in Management Information System.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: Diploma in Electrical Engineering (D.E.E)
+        university: Central Calcutta Polytechnic 
+        time: 1996 - 1999
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          Three years Technical education after 10-2 (senior secondary) education. Internship in 
+          Large Electrical Management systems viz. PLLM, SCADA 
             - Bullet point
             - Bullet point
 experiences:
