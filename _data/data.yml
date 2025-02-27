@@ -214,9 +214,8 @@ oss:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      You can list your publications in this section. 
+      
     papers:
       - title: Observality and Open Source Monitoring a Quick and Easy Guide
         link: "#"
@@ -229,26 +228,34 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Cloud & Infrastructure Architecture: Cloud-Native Architecture (AWS, Azure, GCP) | Multi-Cloud
-              Platforms | Microservices Architecture | Infrastructure Automation | Disaster Recovery as a Service (DRaaS)
-        level: Expert
+      - category: Cloud & Infrastructure Architecture
+        level: 98%
+        Technologies & patterns: Cloud-Native Architecture (AWS, Azure, GCP) | Multi-Cloud Platforms | Microservices Architecture | Infrastructure Automation | Disaster Recovery as a Service (DRaaS)
+        
 
-      - name: Security & Compliance: Zero Trust Architecture | Identity & Access Management (IAM) | Security
-              Posture Management | Cloud Security & Compliance (ISO 27001, GDPR, PCI-DSS) | Risk Management & Governance | Secure DevOps & Automation
-        level: Expert
+      - category: Security & Compliance
+        level: 98%
+        Technology  & patterns: Zero Trust Architecture | Identity & Access Management (IAM) | Security Posture Management | Cloud Security & Compliance (ISO 27001, GDPR, PCI-DSS) | Risk Management & Governance | Secure DevOps & Automation
+        
 
-      - name: Data & AI Ecosystem: Big Data Pipelines | TensorFlow | Jupyter Notebooks | Data Lakes & Data
-              Migration | AI-Driven Infrastructure | Machine Learning Model Deployment
-        level: Intermediate
+      - name: Data & AI Ecosystem
+        level: 70%
+        Technology  & patterns: Big Data Pipelines | TensorFlow | Jupyter Notebooks | Data Lakes & Data Migration | AI-Driven Infrastructure | Machine Learning Model Deployment
+        
 
-      - name: DevOps & Cost Optimization: CI/CD Pipelines & Automation | FinOps & Cloud Cost Management | Agile & Scrum Methodologies | Observability & Performance Tuning
-        level: Expert
+      - name: DevOps & Cost Optimization
+        level: 88%
+        Technology  & patterns: CI/CD Pipelines & Automation | FinOps & Cloud Cost Management | Agile & Scrum Methodologies | Observability & Performance Tuning
+        
 
-      - name: Leadership & Strategic Thinking: Stakeholder Engagement & Communication | DigitalTransformation Strategy | Thought Leadership in AI & Cloud | Decision-Making & Innovation
-        level: Advanced
+      - name: Leadership & Strategic Thinking
+        Technology  & patterns: Stakeholder Engagement & Communication | DigitalTransformation Strategy | Thought Leadership in AI & Cloud | Decision-Making & Innovation
+        level: 85%
 
       - name: Creative Writing
-        level: Expert
+        level: 98%
+        Technology  & patterns: Project documentation, technology Briefs / presentations using Microsoft Word, PDF, PowerPoint, Confluence  |  Non/Fiction and Fiction Writing
+        
         
 
 
