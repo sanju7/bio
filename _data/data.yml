@@ -143,11 +143,11 @@ certifications:
       list:
         - name: Pivotal Cloud Foundry, Operations
           start: 2020
-          end: -
+          end: 
           organization: Pivotal / VMware
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: -
+          credentialid: To Be Added
+          credentialurl: certmetric URL to be added
+          credentialname: 
           details: |
             Pivotal Cloud Foundry (PCF) and VMware Tanzu and its various iterations are modern application development and cloud native infrastructure.
             These focus on platform automation, scalability, security and CI/CD . Certifiation validates the following skills,
@@ -155,22 +155,15 @@ certifications:
             Security and Compliance- RBAC, Network Security Policies, SSL TLS, 
             Monitoring and Performance tuning - Promethius, Graphana, Splunk, ELK Stack , PCF Metrics
             CI/CD and DevOps Enablement- Jenkins GitHub Actions, Concourse, CI/CD Pipeline, Bash , Python , YAML
-        - name: Git learning
-          start: 2019
+        - name: AWS Architect Associate
+          start: 2017
           end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          organization: Amazon Cloud Services
+          credentialid: To be Added
+          credentialurl: Credly URL to be added
+          credentialname: 
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
+            Cloud Infrastructure Architecture
         
 projects:
     title: Projects
@@ -225,42 +218,42 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: Observality and Open Source Monitoring a Quick and Easy Guide
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Sanjay TA Anand
+        conference: Lean Publication
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Cloud & Infrastructure Architecture: Cloud-Native Architecture (AWS, Azure, GCP) | Multi-Cloud
+              Platforms | Microservices Architecture | Infrastructure Automation | Disaster Recovery as a Service (DRaaS)
+        level: Expert
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Security & Compliance: Zero Trust Architecture | Identity & Access Management (IAM) | Security
+              Posture Management | Cloud Security & Compliance (ISO 27001, GDPR, PCI-DSS) | Risk Management & Governance | Secure DevOps & Automation
+        level: Expert
 
-      - name: Angular
-        level: 98%
+      - name: Data & AI Ecosystem: Big Data Pipelines | TensorFlow | Jupyter Notebooks | Data Lakes & Data
+              Migration | AI-Driven Infrastructure | Machine Learning Model Deployment
+        level: Intermediate
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: DevOps & Cost Optimization: CI/CD Pipelines & Automation | FinOps & Cloud Cost Management | Agile & Scrum Methodologies | Observability & Performance Tuning
+        level: Expert
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Leadership & Strategic Thinking: Stakeholder Engagement & Communication | DigitalTransformation Strategy | Thought Leadership in AI & Cloud | Decision-Making & Innovation
+        level: Advanced
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Creative Writing
+        level: Expert
+        
+
+
+
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
