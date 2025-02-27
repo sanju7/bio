@@ -203,6 +203,10 @@ oss:
         link: "#"
         tagline: "Industries most scalable monitoring solution deploy and configuration deploy to autoscale aand integration with Ticketing tool atlassian , all of it deployed as singel package "
 
+      - title: Fully automating Private cloud deployment using Concousce complete with CI/CD  
+        link: "#"
+        tagline: "Industries most robust cloud deployment automation "
+              
 publications:
     title: Publications
     intro: |
@@ -220,7 +224,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - category: Cloud & Infrastructure Architecture
+      - category: Cloud Architecture
         level: 98%
         
       - category: Security & Compliance
