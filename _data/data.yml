@@ -93,70 +93,68 @@ experiences:
     info:
       - role: Principal Consultant
         time: 2017 - Present
-        company: Infosys, Norway
+        company: Infosys Limited, Norway
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
+          Lead Cloud Architect in Financial Services division working with 
+          global fortune 500 clients, large scale deployments and business critical migrations
+          projects that make high impact to client.
             - Migration to Azure and GCP, resulting in a 25% cost reduction.
             - Designed and deployed Kubernetes-based multi-region cloud platforms, enhancing scalability and high availability.
             - Automated CI/CD pipelines, reducing deployment times by 40%.
             - Delivered Pivotal Cloud Foundry solutions across APAC, EMEA, and Americas regions.
             - Collaborated with cross-functional teams to ensure compliance with ICC and data governance standards.
 
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Senior System Architect
+        time: 2016 - 2017
+        company: UST Global, Bengaluru
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Contributed in devops architect / system integration capacity to deploy large scale, high volume monitoring project
+          by undertaking pilot deployment and  then deploying 1st release candidate of the product. 
+            - Designed and implemented an AWS-based cloud backbone for Cisco’s enterprise network monitoring solutions.
+            - Developed fully automated, on-demand deployment systems using Nagios XI and AWS Lambda, reducing downtime.
+            - Atlassian Jira Integration enabling features such as , Incident corelation, alert deduplication, two way synchronization, triggers, Jira webhooks, custom filters
+            - Established cloud security best practices and governance models for enterprise clients. 
+            
+      - role: Senior Architect
+        time: 2015 - 2016
+        company: Happiest Minds Technologies
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Worked as lead Architect in Systems Engineering Team, undertook pilot project as proof of concept intelligent multi cloud platform 
+          for Insurance applications and took it to early candidate go live. Features  such as Self-service deployment, autodetect issues via 
+          intelligent monitoring, self provisioin fixes without intervension.
+            - Robust multi-cloud platform using Apache Libcloud and Cloud.ai, Google Anthos as abstruction
+            - Catalog-based self-service solution enabling seamless deployment and recovery 
+            - Enhanced infrastructure resiliency and accelerated time-to-market for application products. 
+            - Tailored for Indian insurance domain applocations.
+
+      - role: Senior Technical Architect
+        time: 2010 - 2015
+        company: IGATE Technologies
+        details: |
+          Worked in various capacity as lead engineer in solo capacity , as architect in Senior manager role etc. 
+          As Infrastructure Lead engineer contributed to PaaS product team that developed SunGard Availability Services. 
+           - Conceptualized, executed Proof of Concept (PoC), and deployed a Disaster Recovery Cloud Platform to production. 
+           - Leveraged VMware vCenter, VMware Orchestration Services, and large-scale data storage replication systems (e.g., EMC), 
+           - Also VMware NSX, to create a geographically distributed backbone supporting agent based replication and recovery for Windows and Linux and AIX systems.
+           - Platform GoLive and as team target of onboarding of 350 plus clients
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
+        - name: Pivotal Cloud Foundry, Operations
           start: 2020
-          end: 2021
-          organization: Microsoft
+          end: -
+          organization: Pivotal / VMware
           credentialid: 111-222
           credentialurl: www.google.com
-          credentialname: Google
+          credentialname: -
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
-            
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus 
-            fringilla vel. Ut euismod, sem sed vulputate venenatis, 
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at. 
+            Pivotal Cloud Foundry (PCF) and VMware Tanzu and its various iterations are modern application development and cloud native infrastructure.
+            These focus on platform automation, scalability, security and CI/CD . Certifiation validates the following skills,
+            PCF and Tanzu Platform Management - Bosh, Cloud Controller, UAA, Loggregator Docker Tools, Terraform, Kubernetes, Helm Chart, Automation and Infrastructure as Code (IaC), 
+            Security and Compliance- RBAC, Network Security Policies, SSL TLS, 
+            Monitoring and Performance tuning - Promethius, Graphana, Splunk, ELK Stack , PCF Metrics
+            CI/CD and DevOps Enablement- Jenkins GitHub Actions, Concourse, CI/CD Pipeline, Bash , Python , YAML
         - name: Git learning
           start: 2019
           end:
