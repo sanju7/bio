@@ -162,8 +162,10 @@ p {
         margin-bottom: 0;
       }
     }
-  }
+  }  
 }
+
+ 
 
 .main-wrapper {
   grid-column: span 7;
@@ -290,4 +292,12 @@ p {
     color: $heart;
   }
 }
+.repo-item { 
+    display: flex; 
+    align-items: center; /* Align text and button in the same line */ 
+    gap: 10px;  /* Adds space between repo name and GitHub star button */ 
+} 
+#downloadable-repos { 
+    margin-top: 30px;  /* Creates spacing between sections */ 
+} 
 
