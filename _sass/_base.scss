@@ -43,6 +43,12 @@ p {
   @include box-shadow(0px 2px 4px rgba(0, 0, 0, 0.1));
 }
 
+.sidebar-link { 
+  padding-left: 15px;  /* Adjust this to match other sidebar text */ 
+  margin-top: 10px;     /* Space from the element above */ 
+  display: block;       /* Ensures it aligns properly */ 
+  }
+
 .sidebar-wrapper {
   grid-column: span 3;
   order: $sidebar-order;
