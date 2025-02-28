@@ -160,14 +160,15 @@ p {
  } 
   
   .interests-list li { 
-    display: flex; /* Uses flexbox for alignment */ 
-    justify-content: space-between; /* Spreads text and star button */ 
-    align-items: center; /* Centers vertically */ 
-    width: 100%; /* Ensures full width */ 
- } 
+    display: grid; 
+    grid-template-columns: 1fr auto; /* Text takes max width, button auto-sizes */ 
+    align-items: center; 
+    width: 100%; 
+} 
   
  .github-button { 
-    margin-left: auto; /* Pushes GitHub button to the right */ 
+    margin-left: auto; /* Pushes GitHub button to the right */
+    transform: scale(0.9); /* reduce size slightly */
  } 
 }
 
