@@ -154,15 +154,21 @@ p {
     }
   }
 
-  .interests-list {
-    margin-bottom: 0;
-    li {
-      margin-bottom: 10px;
-      &:last-child {
-        margin-bottom: 0;
-      }
-    }
-  }  
+  .interests-list { 
+    list-style: none; /* Removes bullet points */ 
+    padding-left: 0;  /* Ensures no extra padding */ 
+ } 
+  
+  .interests-list li { 
+    display: flex; /* Uses flexbox for alignment */ 
+    justify-content: space-between; /* Spreads text and star button */ 
+    align-items: center; /* Centers vertically */ 
+    width: 100%; /* Ensures full width */ 
+ } 
+  
+ .github-button { 
+    margin-left: auto; /* Pushes GitHub button to the right */ 
+ } 
 }
 
  
