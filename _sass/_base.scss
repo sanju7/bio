@@ -316,15 +316,21 @@ p {
 } 
 
  #downloadable-repos ul { 
-    display: block; 
     list-style: none; 
-    padding-left: 0; /* Removes default left padding */ 
-    margin-top: 10px; /* Adds spacing */ 
+    padding-left: 0; 
+    margin-top: 10px; 
 } 
- 
+
  #downloadable-repos li { 
-    display: block; 
-    padding: 5px 0;  /* Adds spacing between repos */ 
+    display: flex; /* Enables flexbox */ 
+    justify-content: space-between; /* Pushes text left and stars right */ 
+    align-items: center; /* Aligns text and stars on the same line */ 
+    padding: 5px 0; 
+    width: 100%; 
+} 
+
+#downloadable-repos li a { 
+    flex-grow: 1; /* Allows repo name to take up remaining space */ 
 }
 
 .back-to-main { 
