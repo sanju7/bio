@@ -299,16 +299,20 @@ p {
     color: $heart;
   }
 }
-.repo-item { 
+  .repo-item { 
     display: flex; 
-    align-direction: column; /* Align text and button in the same line */ 
-    gap: 10px;  /* Adds space between repo name and GitHub star button */ 
+    justify-content: space-between; 
+    align-items: center; /* Ensures text and button are vertically aligned */ 
 } 
-#downloadable-repos { 
+ .github-button { 
+    display: inline-flex; 
+    align-items: center; 
+} 
+
+ #downloadable-repos { 
     display: flex;
-    align-items: center; /* Align text and button in the same line */
-    gap: 10px;  /* Adds space between repo name and GitHub star button */ 
-} 
+    text-align: left; /* Align text and button in the same line */
+    } 
 .back-to-main { 
     text-transform: uppercase; /* Makes all letters uppercase */ 
     font-weight: bold; 
