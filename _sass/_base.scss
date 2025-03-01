@@ -309,10 +309,24 @@ p {
     align-items: center; 
 } 
 
- #downloadable-repos { 
-    display: flex;
-    text-align: left; /* Align text and button in the same line */
-    } 
+ #downloadable-repos h2 { 
+    display: block; 
+    width: 100%; 
+    margin-bottom: 10px;  /* Adds spacing between heading and the list */ 
+} 
+
+ #downloadable-repos ul { 
+    display: block; 
+    list-style: none; 
+    padding-left: 0; /* Removes default left padding */ 
+    margin-top: 10px; /* Adds spacing */ 
+} 
+ 
+ #downloadable-repos li { 
+    display: block; 
+    padding: 5px 0;  /* Adds spacing between repos */ 
+}
+
 .back-to-main { 
     text-transform: uppercase; /* Makes all letters uppercase */ 
     font-weight: bold; 
