@@ -333,6 +333,10 @@ p {
     flex-grow: 1; /* Allows repo name to take up remaining space */ 
 }
 
+ .container-block-title.my-podcasts-title { 
+    margin-bottom: 20px; 
+} 
+
 .back-to-main { 
     text-transform: uppercase; /* Makes all letters uppercase */ 
     font-weight: bold; 
