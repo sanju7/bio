@@ -254,7 +254,7 @@ skills:
 
     toolset:
         - Name: Programming- Python 
-         level: 95% 
+          level: 95% 
 
         - Name: Bash  
           level: 90%  
@@ -296,7 +296,7 @@ skills:
           level: 35%  
 
         - Name: Redis 
-              level: 80%  
+          level: 80%  
 
         - Name: Amazon S3 
           level: 90% 
