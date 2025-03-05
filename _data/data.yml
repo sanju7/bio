@@ -271,8 +271,8 @@ skills:
             - Name: SQL 
               level: 90%  
 
-        - Name: Scala 
-          level: 75%  
+            - Name: Scala 
+              level: 75%  
 
             - Name: Java 
               level: 80%  
