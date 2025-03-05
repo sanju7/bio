@@ -259,7 +259,7 @@ skills:
         - Name: Bash  
           level: 90%  
        
-        - Name: Go (Golang):  
+        - Name: Go (Golang)  
           level: 80%
          
         - Name: Rust 
