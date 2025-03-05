@@ -224,31 +224,173 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - category: Cloud Architecture
+      - name: Cloud Architecture ( Native | Multi-Cloud Platforms | Microservices Architecture | Infrastructure Automation | Disaster Recovery as a Service (DRaaS))
         level: 98%
         
-      - category: Security & Compliance
+      - name: Security & Compliance ( Zero Trust Architecture | Identity & Access Management (IAM) | Security Posture Management | Cloud Security & Compliance (ISO 27001, GDPR, PCI-DSS) | Risk Management & Governance | Secure DevOps )
         level: 98%
         
-      - name: Data & AI Ecosystem
+      - name: Data & AI Ecosystem ( Big Data Pipelines | TensorFlow | Jupyter Notebooks | Data Lakes & Data Migration | AI-Driven Infrastructure | Machine Learning Model Deployment )
         level: 70%
         
-      - name: DevOps & Cost Optimization
+      - name: DevOps & Cost Optimization /( CI/CD Pipelines & Automation | FinOps & Cloud Cost Management | Agile & Scrum Methodologies | Observability & Performance Tuning )
         level: 88% 
 
-      - name: Leadership & Strategic Thinking    
+      - name: Leadership & Strategic Thinking ( Stakeholder Engagement & Communication | DigitalTransformation Strategy | Thought Leadership in AI & Cloud | Decision-Making & Innovation )   
         level: 85%
 
-      - name: Creative Writing
+      - name: Creative Writing ( Project documentation, technology Briefs / presentations using Microsoft Word, PDF, PowerPoint, Confluence  |  Non/Fiction and Fiction Writing )
         level: 98%
         
+
     skills:
-        Technology & patterns: Cloud-Native Architecture (AWS, Azure, GCP) | Multi-Cloud Platforms | Microservices Architecture | Infrastructure Automation | Disaster Recovery as a Service (DRaaS)
-        Technology & patterns: Zero Trust Architecture | Identity & Access Management (IAM) | Security Posture Management | Cloud Security & Compliance (ISO 27001, GDPR, PCI-DSS) | Risk Management & Governance | Secure DevOps & Automation
-        Technology & patterns: Big Data Pipelines | TensorFlow | Jupyter Notebooks | Data Lakes & Data Migration | AI-Driven Infrastructure | Machine Learning Model Deployment
-        Technology & patterns: CI/CD Pipelines & Automation | FinOps & Cloud Cost Management | Agile & Scrum Methodologies | Observability & Performance Tuning
-        Technology & patterns: Stakeholder Engagement & Communication | DigitalTransformation Strategy | Thought Leadership in AI & Cloud | Decision-Making & Innovation
-        Technology & patterns: Project documentation, technology Briefs / presentations using Microsoft Word, PDF, PowerPoint, Confluence  |  Non/Fiction and Fiction Writing
+        title: Skills &amp; Proficiency
+
+      toolset:
+        - Name: Programming- Python
+          level: 95%
+
+        - Name: Bash 
+         level: 90% 
+
+        - Name: Go (Golang): 
+          level: 80% 
+
+        - Name: Rust
+         level: 75% 
+
+        - Name: PowerShell
+          level: 85% 
+
+        - Name: SQL
+          level: 90% 
+
+        - Name: Scala
+          level: 75% 
+
+        - Name: Java
+          level: 80% 
+
+        - Name: Database & Storage -PostgreSQL
+          level: 90% 
+
+        - Name: MySQL
+          level: 85% 
+
+        - Name: Databdicks
+          level: 55% 
+
+        - Name: DynamoDB
+          level: 45% 
+
+        - Name: MongoDB
+          level: 30% 
+
+        - Name: Cassandra
+          level: 35% 
+
+        - Name: Redis
+          level: 80% 
+
+        - Name: Amazon S3
+          level: 90% 
+
+        - Name: Google Cloud Storage
+          level: 85% 
+
+        - Name: Azure Blob Storage
+          level: 85% 
+
+        - name: Cloud SDKs & CLI Tools -AWS CLI
+          level: 90% 
+
+        - Name: Azure CLI
+          level: 85% 
+
+        - Name: GCloud CLI
+          level: 90% 
+
+        - Name: AWS SDK (Boto3, Java, .NET)
+          level: 60% 
+
+        - Name: Google Cloud SDK
+          level: 85%
+          
+        - Name: Azure SDKs (Python, PowerShell)
+          level: 80%
+
+        - name: Infrastructure as Code (IaC) - Terraform
+          level: 86%
+
+        - Name: AWS CloudFormation
+          level: 75% 
+
+        - Name: Pulumi
+          level: 30% 
+
+        - Name: Ansible
+          level: 85% 
+
+        - Name: Kubernetes (kubectl, Helm)
+          level: 90% 
+
+        - Name: Docker
+          level: 70% 
+
+        - Name: Podman
+          level: 60%
+          
+        - name: Data Engineering & Streaming ( Older) - Apache Spark (Scala, Python)
+          level: 30% 
+
+        - Name: Apache Kafka
+          level: 30% 
+
+        - Name: Apache Flink
+          level: 30% 
+
+        - Name: Apache Airflow
+          level: 30% 
+
+        - Name: Dask
+          level: 30% 
+
+        - Name: Google BigQuery
+          level: 30% 
+        
+        - name: Machine Learning & AI (Recent)- TensorFlow
+          level: 50% 
+
+        - Name: PyTorch
+          level: 20% 
+
+        - Name: Keras
+          level: 10% 
+
+        - Name: ONNX
+          level: 10% 
+
+        - Name: Hugging Face Transformers
+          level: 5% 
+
+        - Name: MLflow
+          level: 20% 
+
+        - Name: Kubeflow
+          level: 20% 
+
+        - Name: Triton Inference Server
+          level: 5%
+          
+        - name: NLP & Pre-trained Models- spaCy
+          level: 10% 
+
+        - Name: NLTK
+          level: 20% 
+
+        - Name: BERT/GPT/T5
+          level: 40% 
+
         
 
 footer: >
