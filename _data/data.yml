@@ -189,7 +189,7 @@ projects:
 oss:
     title: OSS Contributions
     intro: >
-      You Details about my open source contributions over the years
+      Details about my open source contributions over the years
     contributions:
       - title: Custom Qmail Server Package and Deploy  
         link: "#"
@@ -206,6 +206,16 @@ oss:
       - title: Fully automating Private cloud deployment using Concousce complete with CI/CD  
         link: "#"
         tagline: "Industries most robust cloud deployment automation "
+
+oss:
+    title: Technology Patterns
+    intro: >
+      Knowledge and Practitionerof following patterns
+    contributions:
+      - title: Cloud Architecture ( Native | Multi-Cloud Platforms | Microservices Architecture | Infrastructure Automation | Disaster Recovery as a Service (DRaaS)) 
+        link: "#"
+        tagline: "Several Projects over the years "
+
               
 publications:
     title: Publications
@@ -224,7 +234,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Cloud Architecture ( Native | Multi-Cloud Platforms | Microservices Architecture | Infrastructure Automation | Disaster Recovery as a Service (DRaaS))
+      - name: 
         
       - name: Security & Compliance ( Zero Trust Architecture | Identity & Access Management (IAM) | Security Posture Management | Cloud Security & Compliance (ISO 27001, GDPR, PCI-DSS) | Risk Management & Governance | Secure DevOps )
         level: 98%
