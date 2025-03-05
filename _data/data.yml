@@ -225,7 +225,6 @@ skills:
 
     toolset:
       - name: Cloud Architecture ( Native | Multi-Cloud Platforms | Microservices Architecture | Infrastructure Automation | Disaster Recovery as a Service (DRaaS))
-        level: 98%
         
       - name: Security & Compliance ( Zero Trust Architecture | Identity & Access Management (IAM) | Security Posture Management | Cloud Security & Compliance (ISO 27001, GDPR, PCI-DSS) | Risk Management & Governance | Secure DevOps )
         level: 98%
