@@ -253,31 +253,28 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - Name: Programming & Python 
-        level: 95% 
-
-      - Name: Bash & Bash  
-        level: 90%  
+     - Name: Programming & Python 
+       level: 95%
        
-      - Name: Go & Golang  
-        level: 80%
+     - Name: Bash & Bash  
+       level: 90%
+       
+     - Name: Go & Golang  
+       level: 80%
          
-      - Name: Rust & Rust 
-        level: 75%  
+     - Name: Rust & Rust 
+       level: 75%
        
-      - Name: PowerShell & PowerShell 
-        level: 85%  
-
-      - Name: SQL & SQL
-        level: 90%  
-
-      - Name: Scala & Scala
-        level: 75%  
-
-      - Name: Java & Java
-        level: 80%  
-
+     - Name: PowerShell & PowerShell 
+       level: 85%
+       
+     - Name: SQL & SQL
+       level: 90%
+       
+     - Name: Scala & Scala
+       level: 75%
+     - Name: Java & Java
+       level: 80%  
         
-
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
